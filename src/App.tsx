@@ -92,6 +92,12 @@ const appsData = [
     logo: "https://th.bing.com/th/id/OIP.9A10yiv4EpNhyGwHwnzyZAHaHa?w=108&h=108&c=1&bgcl=877ef9&r=0&o=7&pid=ImgRC&rm=3",
     link: "https://vipsw.vercel.app",
   },
+  {
+    id: 7,
+    name: " unacademy",
+    logo: "https://th.bing.com/th/id/OSK.00bzf8Z7M-tmVfwq-80atju4PAz3GeZnrD2X8hdi7eE?w=80&h=80&r=0&o=6&cb=B&pid=23.1",
+    link: "https://vipuy.vercel.app",
+  },
 ];
 
 const statsData = [
