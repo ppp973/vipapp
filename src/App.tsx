@@ -86,6 +86,12 @@ const appsData = [
     logo: "https://cdn.phototourl.com/uploads/2026-02-20-5acbea92-51a6-46dd-9d37-eda7dae70e25.png",
     link: "https://testway.netlify.app",
   },
+  {
+    id: 7,
+    name: "SELECTION WAY ",
+    logo: "https://th.bing.com/th/id/OIP.9A10yiv4EpNhyGwHwnzyZAHaHa?w=108&h=108&c=1&bgcl=877ef9&r=0&o=7&pid=ImgRC&rm=3",
+    link: "https://vipsw.vercel.app",
+  },
 ];
 
 const statsData = [
