@@ -57,6 +57,12 @@ const appsData = [
     link: "https://vipcw.vercel.app",
   },
   {
+    id: 7,
+    name: "STUDY IQ",
+    logo: "https://th.bing.com/th/id/OIP.Lrpjl3RykZXGMI-_c7CkigHaEK?w=284&h=180&c=7&r=0&o=7&pid=1.7&rm=3",
+    link: "https://rajiq.vercel.app",
+  },
+  {
     id: 2,
     name: "KGS",
     logo: "https://sp.yimg.com/ib/th/id/OIP.T8NeG_XyxPyBrps5qLaQ8QHaHa?pid=Api&w=148&h=148&c=7&rs=1",
