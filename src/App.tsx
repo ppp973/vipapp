@@ -78,7 +78,7 @@ const appsData = [
     id: 5,
     name: "CW OLD BATCHES",
     logo: "https://tse2.mm.bing.net/th/id/OIP.4F6qEJS83WVEcmU1jyPOLwHaHa?pid=Api&P=0&h=180",
-    link: "#",
+    link: "https://oldcw.vercel.app",
   },
   {
     id: 6,
